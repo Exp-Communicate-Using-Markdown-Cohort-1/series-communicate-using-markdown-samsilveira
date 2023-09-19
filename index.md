@@ -8,3 +8,9 @@
 ```
 <link rel="stylesheet" href="#">
 ```
+
+## Lista de Demonstração
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
